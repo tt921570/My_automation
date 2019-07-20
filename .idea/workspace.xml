@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ae8327c-74be-4cee-8a15-f9c7d5cc26ae" name="Default Changelist" comment="" />
+    <list default="true" id="8ae8327c-74be-4cee-8a15-f9c7d5cc26ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/features/ContactMe.feature" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +40,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/ContactMe.feature">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/step_definitions/login_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="210">
+              <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -79,6 +86,11 @@
             <path>
               <item name="My_automation" type="b2602c69:ProjectViewProjectNode" />
               <item name="My_automation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="My_automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="My_automation" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,24 +136,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563624828050</updated>
-      <workItem from="1563624829305" duration="1566000" />
+      <workItem from="1563624829305" duration="2457000" />
     </task>
+    <task id="LOCAL-00001" summary="day_1_login">
+      <created>1563626521279</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563626521279</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1566000" />
+    <option name="totallyTimeSpent" value="2457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="35" width="1440" height="791" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -159,6 +178,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day_1_login" />
+    <option name="LAST_COMMIT_MESSAGE" value="day_1_login" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
@@ -174,6 +197,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/login_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/features/Login.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -181,12 +211,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/login_steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/features/ContactMe.feature">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
